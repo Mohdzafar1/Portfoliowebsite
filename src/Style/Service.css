@@ -1,0 +1,20 @@
+#bg-black{
+    background-color: black;
+}
+.card-body .card-title{
+    color: white;
+}
+ .card-title:hover{
+    color: black;
+}
+
+.text-center .card{
+    background-color:#181818;
+}
+.text-center .card{
+    box-shadow: 2px 2px 2px 2px yellow;
+}
+.text-center .card:hover{
+    background-color: yellow;
+    
+}
